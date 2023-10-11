@@ -1,1 +1,2 @@
 # basic-html-css-js-projects
+This repository contains some of my HTML, CSS, and JS projects that I have completed. Currently,this includes a Liverpool FC landing page, an Etch-a-Sketch interface (basically an online sketchbook), and a Rock Paper Scissors game.
